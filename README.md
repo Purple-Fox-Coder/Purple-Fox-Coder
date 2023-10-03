@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Purple-Fox-Coder
 - 👀 I’m interested in Art, Game Development, efficiency, quality, and experimentation 
-- 🌱 I’m currently learning more and more about programming.
+- 🌱 I’m currently working on a degree in Computer Science and have been programming for 8 years now.
+- My favourite programming language is C#, but C++ is pretty high up there
