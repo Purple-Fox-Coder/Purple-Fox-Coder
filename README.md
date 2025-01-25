@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @Purple-Fox-Coder
-- 👀 I’m interested in Art, Game Development, efficiency, quality, and experimentation 
-- 🌱 I’m currently working on a degree in Computer Science and have been programming for 8 years now.
-- My favourite programming language is C#, but C++ is pretty high up there
+- 👀 I’m most interested in low level programming, but I have worked on many projects that require me to use frontend as well
+- 🌱 I’m currently working on a degree in Computer Science and have been programming since 2011
+
+# Top 3 Programming Languages
+(since writing this)
+
+1. Zig
+2. C
+3. C++
